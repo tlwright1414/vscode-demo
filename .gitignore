@@ -1,6 +1,14 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
+.settings/
+.vscode/
+.mvn/
+.project/
+
+mvnw
+mvnw.cmd
+
 ### STS ###
 .apt_generated
 .classpath
@@ -22,7 +30,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-.settings/
-.vscode/
-.mvn/
